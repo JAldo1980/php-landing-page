@@ -1,7 +1,19 @@
-<?php include 'includes/header.php'; ?>
-<main>
-    <h1>Welcome to My Website</h1>
-    <p>This is a simple PHP-powered website with HTML, CSS, and JavaScript.</p>
-    <?php include 'includes/hero.php'; ?>
-</main>
-<?php include 'includes/footer.php'; ?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Slack</title>
+    <link rel="stylesheet" href="/my-php-website/css/style.css">
+</head>
+<body>
+ <div class="wrapper">
+ <?php include 'includes/header.php'; ?>
+    <main>
+        <?php include 'includes/hero.php'; ?>
+        <?php include 'includes/brands.php'; ?>
+    </main>
+    <?php include 'includes/footer.php'; ?>
+ </div>
+</body>
+</html>

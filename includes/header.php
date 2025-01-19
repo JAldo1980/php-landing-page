@@ -7,8 +7,10 @@
     <link rel="stylesheet" href="/my-php-website/css/style.css">
 </head>
 <body>
-    <header>
-    <?php include 'includes/nav.php'; ?>
-    </header>
+   
+        <header>
+        <?php include 'includes/nav.php'; ?>
+        </header>
+  
 </body>
 </html>
