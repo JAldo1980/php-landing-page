@@ -14,7 +14,7 @@
              
             </div>
    
-        <button class="margin-top">Buy now, save 50%</button>
+        <button class="margin-top hero-button">Buy now, save 50%</button>
         <p>Limited-time offer for new teams upgrading to the Slack Pro subscription. Terms apply.</p>
     </div>
     <div>
