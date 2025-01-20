@@ -185,4 +185,8 @@ h1 {
   .hero-button {
     width: 100%;
   }
+
+  .features-el {
+    grid-template-columns: 1fr 1fr;
+  }
 }
