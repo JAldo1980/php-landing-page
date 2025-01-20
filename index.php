@@ -12,6 +12,7 @@
     <main>
         <?php include 'includes/hero.php'; ?>
         <?php include 'includes/brands.php'; ?>
+        <?php include 'includes/benefits.php'; ?>
     </main>
     <?php include 'includes/footer.php'; ?>
  </div>
