@@ -32,7 +32,8 @@ body {
   text-decoration: none;
 }
 
-.top-button {
+.top-button,
+.cta-button {
   padding: 1.5em 1.5em;
   border: 1px black solid;
   border-radius: 5px;
@@ -127,6 +128,28 @@ h1 {
 
 .inside-col p {
   margin: 0.5em 0;
+}
+
+.ctaOne-top-el {
+  text-align: center;
+}
+
+.ctaOne-bottom-el {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 2em;
+  border: black 3px solid;
+  border-radius: 5px;
+  padding: 1em;
+}
+
+.ctaOne-image {
+  height: 100px;
+}
+
+.ctaOne-bottom-el h4 {
+  text-align: center;
 }
 
 /* MEDIA QUERIES */
