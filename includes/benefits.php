@@ -14,7 +14,7 @@
     </div>
     <div class="col-2">
         <h3>Free</h3>
-        <div>
+        <div class="inside-col">
             <p>90-day message history</p>
             <p>1:1 huddles only</p>
             <p>✔️</p>
@@ -27,7 +27,7 @@
     </div>
     <div class="col-3">
         <h3>Slack Pro</h3>
-        <div>
+        <div class="inside-col">
             <p>✔️ Unlimited</p>
             <p>✔️ Huddles</p>
             <p>✔️ Clips</p>

@@ -97,18 +97,36 @@ h1 {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   justify-content: space-between;
-  align-items: center;
+  align-items: start;
   gap: 2em;
   background-color: white;
   padding: 2em;
+  border-top: black 5px solid;
+}
+
+.benefits-el > div {
+  display: flex;
+  flex-direction: column;
+}
+
+.benefits-el h3 {
+  text-align: center;
+  margin-bottom: 1em;
 }
 
 .col-2,
 .col-3 {
   text-align: center;
+}
+
+.inside-col {
   background-color: #f4f4f4;
   border-radius: 10px;
   padding: 1em;
+}
+
+.inside-col p {
+  margin: 0.5em 0;
 }
 
 /* MEDIA QUERIES */
@@ -120,11 +138,11 @@ h1 {
   }
 
   .hero-el {
-    grid-template-columns: 1fr; /* Stacks the columns vertically on small screens */
+    grid-template-columns: 1fr;
   }
 
   .benefits-el {
-    grid-template-columns: 1fr; /* Stacks the columns vertically on small screens */
+    grid-template-columns: 1fr;
   }
 
   .hero-button {
