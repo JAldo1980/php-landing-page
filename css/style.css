@@ -137,6 +137,7 @@ h1 {
 .ctaOne-bottom-el {
   display: flex;
   justify-content: space-between;
+  gap: 1em;
   align-items: center;
   margin-top: 2em;
   border: black 3px solid;
@@ -150,6 +151,19 @@ h1 {
 
 .ctaOne-bottom-el h4 {
   text-align: center;
+}
+
+.features-el {
+  margin-top: 2em;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  justify-content: space-between;
+  gap: 1em;
+  align-items: center;
+}
+
+.features-el img {
+  width: 50%;
 }
 
 /* MEDIA QUERIES */

@@ -14,6 +14,7 @@
         <?php include 'includes/brands.php'; ?>
         <?php include 'includes/benefits.php'; ?>
         <?php include 'includes/ctaOne.php'; ?>
+        <?php include 'includes/features.php'; ?>
     </main>
     <?php include 'includes/footer.php'; ?>
  </div>
