@@ -1,6 +1,6 @@
 
 <section class="hero-el">
-    <div>
+    <div class="hero-flex">
         <h1>One platform for your team and your work</h1>
     
             <div class="para-el">
