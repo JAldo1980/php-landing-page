@@ -18,6 +18,7 @@
         <?php include 'includes/teamWork.php';?>
     </main>
     <?php include 'includes/footer.php'; ?>
+    <?php include 'includes/faq.php'; ?>
  </div>
 </body>
 </html>
