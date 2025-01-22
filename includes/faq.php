@@ -32,5 +32,8 @@
         <p>Yes, you can cancel your subscription at any time from your account settings.</p>
       </div>
     </div>
+    <h5>1 Weighted average. Based on 2,707 survey responses from weekly Slack users in the US, UK, Australia and Canada with a ± 2% margin of error at 95% CI (December 2021)
+
+2 All values are reported in risk-adjusted, three-year present value. ‘The Total Economic Impact of Slack for Technical Teams’, Forrester, 2020</h5>
   </div>
 </section>

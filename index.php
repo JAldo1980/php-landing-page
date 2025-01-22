@@ -17,8 +17,8 @@
         <?php include 'includes/features.php'; ?>
         <?php include 'includes/teamWork.php';?>
     </main>
-    <?php include 'includes/footer.php'; ?>
     <?php include 'includes/faq.php'; ?>
+    <?php include 'includes/footer.php'; ?>
  </div>
 </body>
 </html>
