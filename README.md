@@ -1,3 +1,1 @@
-# php-landing-page
-# php-landing-page
-# php-landing-page
+Landing page built using PhP and JavaScript.
